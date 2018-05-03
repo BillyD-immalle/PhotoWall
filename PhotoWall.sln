@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27428.2011
+VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoWall", "PhotoWall\PhotoWall.csproj", "{772CEFED-BFE9-4662-8B55-E7DEF5A9AB91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoWall", "PhotoWall\PhotoWall.csproj", "{772CEFED-BFE9-4662-8B55-E7DEF5A9AB91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

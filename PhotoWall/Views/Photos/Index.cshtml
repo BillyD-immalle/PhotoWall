@@ -25,7 +25,7 @@
             @foreach (var item in Model) {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.PhotoName)
+                    <img src ="@item.PhotoName"/> 
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.uploadDate)

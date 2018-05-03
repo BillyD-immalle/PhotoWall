@@ -10,7 +10,7 @@ namespace PhotoWall.Models
     {
         public int PhotoId { get; set; }
 
-        [Display(Name = "Foto")]
+        [Display(Name = "Foto link")]
         public string PhotoName { get; set; }
 
         [Display(Name = "Datum")]
